@@ -460,6 +460,8 @@ Keep the person exactly as shown in the reference image with 100% identical faci
 ### 1.14. Museum Art Exhibition Selfie
 *A commercial-grade photo with a classical oil painting*
 <img width="400" alt="Museum Art Exhibition Selfie" src="https://pbs.twimg.com/media/G7N2KUIbMAAspf6?format=jpg&name=900x900" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/dd48cba7-661a-41c3-998d-e48047ecc6e0" />
+
 
 **Prompt:**
 ```text
@@ -550,7 +552,7 @@ First one to pull this off. First take. Even Waldo is there.
 
 ### 2.2. Aging Through the Years
 *Demonstrates temporal consistency and aging effects on a single subject.*
-<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/74fced67-0715-46d3-b788-d9ed9e98873b" />
+<img width="400" alt="Image" src="https://github.com/user-attachments/assets/74fced67-0715-46d3-b788-d9ed9e98873b" />
 
 **Prompt:**
 ```text
@@ -1023,19 +1025,10 @@ Identify the main product in the uploaded photo (automatically removing any hand
 ```
 *Source: 宝玉 ([@dotey](https://x.com/dotey)) - [Post](https://x.com/dotey/status/1995190286775881780?s=20)*
 
-### 4.4. 3D Chibi-Style Miniature Character Concept Store
-*Create a miniature store with character-based design*
-<img width="400" alt="Chibi Character Store" src="https://pbs.twimg.com/media/G7ImDCwbgAQkqWu?format=jpg&name=900x900" />
-
-**Prompt:**
-```text
-3D chibi-style miniature concept store of {Brand Name}, creatively designed with an exterior inspired by the brand's most iconic product or packaging (e.g., a giant {brand's core product, e.g., chicken bucket/hamburger/donut/roast duck}). The store features two floors with large glass windows clearly showcasing the cozy and finely decorated interior: {brand's primary color}--themed decor, warm lighting, and busy staff dressed in outfits matching the brand. Cute little figures walk around or sit on the street, surrounded by benches, street lamps, and potted plants, creating a charming urban scene. Rendered in a miniature cityscape style using Cinema 4D, with a blind-box toy aesthetic, rich in details and realism, and bathed in soft lighting that evokes a relaxing afternoon atmosphere. The miniature characters should appear according to the attached character sheet reference. --ar 2:3
-```
-*Source: テツメモ｜AI図解×検証｜Newsletter ([@tetumemo](https://x.com/tetumemo)) - [Post](https://x.com/tetumemo/status/1995699440695607443?s=20)*
-
-### 4.5. Room Furnishing Visualization
+### 4.4. Room Furnishing Visualization
 *Visualize how furniture would look in an empty room*
 <img width="400" alt="Image" src="https://pbs.twimg.com/media/G63UHDYWoAAD_Hm?format=jpg&name=medium" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/082f8bab-b098-4196-adf9-c6007a4b7006" />
 
 **Prompt:**
 ```text
