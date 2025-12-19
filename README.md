@@ -1,4 +1,4 @@
-[Last updated on 2025.12.04: Added bathroom mirror selfie, fisheye character selfie, 3D renders, magazine covers, torn paper art, and other prompts]
+[Last updated on 2025.12.19: Added photo book style magazine covers, country island dioramas, novel scene posters, miniature swimming pools, Christmas ornaments, surreal wrinkle removal, isometric photography, wide angle edits, shop window cartoons, 3D LED displays, trans-dimensional liquid pours, fisheye portraits, IXUS aesthetic photos, and anime spotlights]
 
 # Awesome Nano Banana Pro 🍌
 
@@ -15,8 +15,6 @@ Consider subscribing to [this free newsletter](https://zerolu.substack.com/p/hel
 ### Sponsor: [Sora Watermark Remover](https://thesorawatermarkremover.com)
 
 [<img width="600" height="265" alt="image" src="https://github.com/user-attachments/assets/b087445c-d3ad-4152-8e28-33a5ca49d4b5" />](https://thesorawatermarkremover.com)
-
-
 
 This repo gets up to **20,000 visitors per day**, [mail me](mailto:iamzerolu@gmail.com) if you want a limited sponsor slot!
 
@@ -808,20 +806,6 @@ Choose and explain your filmmaking approach (must include):
 <step 4 - keyframes for AI video (primary deliverable)>
 Output a Keyframe List: default 9–12 frames (later assembled into ONE master grid). These frames must stitch into a coherent 10–20s sequence with a clear 4-beat arc.
 Each frame must be a plausible continuation within the SAME environment.
-
-Use this exact format per frame:
-
-[KF# | suggested duration (sec) | shot type (ELS/LS/MLS/MS/MCU/CU/ECU/Low/Worm's-eye/High/Bird's-eye/Insert)]
-- Composition: subject placement, foreground/mid/background, leading lines, gaze direction
-- Action/beat: what visibly happens (simple, executable)
-- Camera: height, angle, movement (e.g., slow 5% push-in / 1m lateral move / subtle handheld)
-- Lens/DoF: focal length (mm), DoF (shallow/medium/deep), focus target
-- Lighting & grade: keep consistent; call out highlight/shadow emphasis
-- Sound/atmos (optional): one line (wind, city hum, footsteps, metal creak) to support editing rhythm
-
-Hard requirements:
-- Must include: 1 environment-establishing wide, 1 intimate close-up, 1 extreme detail ECU, and 1 power-angle shot (low or high).
-- Ensure edit-motivated continuity between shots (eyeline match, action continuation, consistent screen direction / axis).
 </step 4 - keyframes for AI video>
 
 <step 5 - contact sheet output (MUST OUTPUT ONE BIG GRID IMAGE)>
@@ -845,6 +829,499 @@ E) ONE Master Contact Sheet Image (All KFs in one grid)
 </final output format>
 ```
 *Source: [@underwoodxie96](https://x.com/underwoodxie96/status/1995109628825489647)*
+
+### 2.17. Photo Book Style Magazine Cover with Coordinates
+*A beautiful, photo book style magazine cover that fully utilizes the 9:16 aspect ratio with precise coordinates.*
+
+<img width="400" alt="Photo Book Style Magazine Cover" src="https://pbs.twimg.com/media/G70ZJFCXcAAn3F2?format=jpg&name=medium" />
+
+**Prompt:**
+```text
+Create a beautiful, photo book style magazine cover that fully utilizes the 9:16 aspect ratio. Place the attached person at the precise coordinates of [latitude/longitude coordinate], seamlessly blending them into the scene as if they are sightseeing. Approach this task with the understanding that this is a critical page that will significantly influence visitor numbers. NEGATIVE: coordinate texts
+```
+*Source: Min Choi ([@minchoi](https://x.com/minchoi)) - [Post](https://x.com/minchoi/status/1998784591155409397)*
+
+### 2.18. Floating Country Island Diorama
+*A hyper-realistic digital poster of a floating miniature island shaped like a specific country.*
+
+<img width="400" alt="Floating Country Island" src="https://pbs.twimg.com/media/G75EwP0WkAEpIbm?format=jpg&name=medium" />
+
+**Prompt:**
+```text
+Create an ultra-HD, hyper-realistic digital poster of a floating miniature island shaped like [COUNTRY], resting on white clouds in the sky. Blend iconic landmarks, natural landscapes (like forests, mountains, or beaches), and cultural elements unique to [COUNTRY]. Carve "[COUNTRY]" into the terrain using large white 3D letters. Add artistic details like birds (native to [COUNTRY]), cinematic lighting, vivid colors, aerial perspective, and sun reflections to enhance realism. Ultra-quality, 4K+ resolution. 1080x1080 format.
+```
+*Source: TechieSA ([@TechieBySA](https://x.com/TechieBySA)) - [Post](https://x.com/TechieBySA/status/1999110884879221052)*
+
+### 2.19. Novel Scene 3D Poster
+*A 3D poster design for novels or films with a miniature diorama effect.*
+
+<img width="400" alt="Novel Scene 3D Poster" src="https://pbs.twimg.com/media/G7uUpDraQAAC1ty?format=jpg&name=large" />
+
+**Prompt:**
+```text
+Design a high-quality 3D poster for the movie/novel "Name to be added", first retrieving information about the movie/novel and famous scenes.
+
+First, please use your knowledge base to retrieve information about this movie/novel and find a representative famous scene or core location. In the center of the image, construct this scene as a delicate axonometric 3D miniature model. The style should adopt DreamWorks Animation's delicate and soft rendering style. You need to reproduce the architectural details, character dynamics, and environmental atmosphere of that time, whether it's a storm or a quiet afternoon, naturally integrating into the model's lighting.
+
+Regarding the background, do not use a simple pure white background. Please create a void environment with faint ink wash diffusion and flowing light mist around the model, with elegant colors, making the image look breathable and have depth, highlighting the preciousness of the central model.
+
+Finally, for the bottom layout, please generate Chinese text. Center the novel title with a font that matches the original style. Below the title, automatically retrieve and typeset a classic description or quote about this scene from the original work, using an elegant serif font. The overall layout should be as精致balanced as a high-end museum exhibit label.
+```
+*Source: 歸藏(guizang.ai) ([@op7418](https://x.com/op7418)) - [Post](https://x.com/op7418/status/1998355915456790916)*
+
+### 2.20. Miniature Swimming Pool Diorama
+*Surreal miniature-world collage poster featuring an oversized container as a swimming pool.*
+
+<img width="400" alt="Miniature Swimming Pool" src="https://pbs.twimg.com/media/G7u3urdXEAA3R5K?format=jpg&name=small" />
+
+**Prompt:**
+```text
+Surreal miniature-world collage poster featuring an oversized open blue Nivea-style tin repurposed as a whimsical swimming pool filled with glossy white "cream-water." 
+Tiny sunbathers float in pastel swim rings, lounge on miniature deck chairs, and slide into the cream pool from a small blue slide.
+The background is a soft, warm, lightly textured countertop surface subtle marble or matte stone, evenly lit, no heavy veins or visual noise. 
+Keep the scene grounded with soft shadows beneath props and figures.
+Surrounding the tin, keep the playful diorama elements: a small wooden deck with micro figures, pastel umbrellas, lounge chairs, and compact handcrafted accessories. Maintain the hovering pastel inflatables and plush cloud-like shapes, but ensure they feel like stylised decorative objects staged above the countertop 
+Preserve the soft, high-saturation, toy-like aesthetic with plush textures, pastel gradients, and gentle lighting.
+```
+*Source: Salma ([@Salmaaboukarr](https://x.com/Salmaaboukarr)) - [Post](https://x.com/Salmaaboukarr/status/1998394870759567373)*
+
+### 2.21. Christmas Ornament 3D Character
+*Transform yourself into a cute 3D character inside a Christmas ornament.*
+
+<img width="400" alt="Christmas Ornament 3D Character" src="https://pbs.twimg.com/media/G7vbusrWUAA8omH?format=jpg&name=large" />
+
+**Prompt:**
+```text
+A transparent Christmas bauble hanging by a red ribbon. Inside, a tiny diorama of the person from the reference reimagined as a cute 3d chibi character. He works at a mini futuristic AI desk with three glowing holo-screens showing neural networks and code. Add tiny plants, a mini coffee cup, soft desk lighting, floating UI icons, and snow-glitter at the base. Warm magical Christmas glow, cinematic reflections on glass, cozy high-end diorama aesthetic.
+
+Cinematic lighting, shallow depth of field, soft reflections on the glass, ultra-polished materials, high detail, festive Christmas atmosphere. Whimsical, premium, and heartwarming.
+```
+*Source: Pierrick Chevallier | IA ([@CharaspowerAI](https://x.com/CharaspowerAI)) - [Post](https://x.com/CharaspowerAI/status/1998432458941858282)*
+
+### 2.22. Ironing Out Wrinkles
+*A surreal take on anti-aging with a miniature iron smoothing out wrinkles.*
+
+<img width="400" alt="Ironing Out Wrinkles" src="https://pbs.twimg.com/media/G7b8YyVXQAALtxS?format=jpg&name=large" />
+
+**Prompt:**
+```json
+{
+  "prompt": "An award-winning, hyper-realist macro photograph in the style of high-concept editorial art. The image features an extreme close-up of an elderly woman's eye and cheekbone. A miniature, toy-like white and blue clothes iron is positioned on her skin, actively pressing down and ironing out deep wrinkles and crow's feet, leaving a streak of unnaturally smooth skin in its wake. A thin white cord trails organically across the texture of her face. The image demands microscopic clarity, capturing mascara clumps, skin pores, and vellus hairs. The lighting is an unforgiving, high-contrast hard flash typical of avant-garde fashion photography.",
+  "subject_details": {
+    "main_subject": "Elderly woman's face (Macro topography of aging skin)",
+    "object": "Miniature white and blue iron with realistic plastic textures and a trailing cord",
+    "action": "The iron is creating a visible, flattened path through the wrinkles, visually simulating a cosmetic procedure",
+    "features": [
+      "Piercing brown eye",
+      "Clumped mascara on aging lashes",
+      "Deeply etched crow's feet contrast with 'ironed' smooth areas",
+      "Micro-details: vellus hair, capillaries, makeup powder texture"
+    ]
+  },
+  "artistic_style": {
+    "genre": ["Contemporary Pop-Surrealism", "Satirical Editorial", "Visual Metaphor"],
+    "aesthetic": ["Maurizio Cattelan style", "Vivid Color", "Commercial Kitsch", "Tactile Realism"],
+    "lighting": "Studio Ring Flash, High-Key, Hard Shadows, Glossy finish",
+    "composition": "Macro Photography, Rule of Thirds focus on the iron"
+  },
+  "technical_specs": {
+    "camera": "Hasselblad H6D-100c",
+    "lens": "Macro 120mm f/4",
+    "film_stock": "Kodak Ektar 100",
+    "resolution": "8k, Unsplash award winner"
+  },
+  "mood": "Provocative, satirical, disturbingly pristine, humorous yet critical"
+}
+```
+*Source: Ege ([@egeberkina](https://x.com/egeberkina)) - [Post](https://x.com/egeberkina/status/1997061102237049047)*
+
+### 2.23. Perfectly Isometric Photography
+*Create a captured photo that just happens to be perfectly isometric.*
+
+<img width="400" alt="Isometric Photography" src="https://pbs.twimg.com/media/G7qgKDPX0AAEGS9?format=jpg&name=small" />
+
+**Prompt:**
+```text
+Make a photo that is perfectly isometric. It is not a miniature, it is a captured photo that just happened to be perfectly isometric. It is a photo of [subject].
+```
+*Source: Nano Banana Pro ([@NanoBanana](https://x.com/NanoBanana)) - [Post](https://x.com/NanoBanana/status/1998085942201163905)*
+
+### 2.24. Extreme Wide Angle Phone Screen Replacement
+*Edit photo with extreme wide angle and phone screen replacement.*
+
+<img width="400" alt="Wide Angle Phone Edit" src="https://pbs.twimg.com/media/G7gEwj8bIAAcFM2?format=jpg&name=small" />
+
+**Prompt:**
+```text
+{
+  "edit_type": "extreme_wide_angle_phone_edit",
+  "source": {
+    "_hint": "Base for editing the person, clothing, and atmosphere of the original image. No new characters allowed.",
+    "mode": "EDIT",
+    "preserve_elements": ["Person", "Face", "Hairstyle", "Clothing", "Environment style"],
+    "change_rules": {
+      "camera_angle": "Ultra-wide or fisheye lens (equivalent to 12-18mm)",
+      "angle_options": [
+        "Looking up from directly in front",
+        "Looking down from directly in front", 
+        "Extreme low angle",
+        "High angle",
+        "Tilted composition"
+      ],
+      "perspective_effect": "Nearby objects are exaggerated, distant objects become smaller",
+      "body_parts_close_to_camera": "Bring 1-3 body parts extremely close to the camera",
+      "body_part_options": [
+        "Hands",
+        "Feet/shoes",
+        "Knees/thighs",
+        "Face",
+        "Shoulders/chest"
+      ],
+      "pose_variety": [
+        "Extending one hand/leg toward the camera",
+        "Squatting or lying on stomach halfway",
+        "Sitting on the ground or an object",
+        "Lying on the ground with legs pointed at camera",
+        "Leaning body sharply toward the camera",
+        "Twisting body for dynamic pose"
+      ]
+    },
+    "phone_handling": {
+      "allowed": true,
+      "grip_options": [
+        "One-handed", 
+        "Two-handed",
+        "Low angle",
+        "High angle", 
+        "Tilted",
+        "Sideways",
+        "Close to chest",
+        "Close to waist",
+        "Casual grip"
+      ],
+      "screen_replacement": {
+        "target": "Only the smartphone screen portion displayed in the image",
+        "source": "Second reference image",
+        "fitting_rules": "Strictly match the screen shape, no stretching or compression",
+        "interface_rules": "No icons, status bars, or app borders; only display content from original image"
+      }
+    },
+    "environment_consistency": {
+      "location": "Maintain the same location as the original image",
+      "lighting": "Maintain direction and intensity",
+      "extension_rules": "Maintain the same buildings, walls, road markings, colors, materials, and lighting style"
+    },
+    "global_restrictions": [
+      "No new characters allowed",
+      "No changes to age or gender expression of person", 
+      "No clothing changes",
+      "No changes to location type",
+      "No text, logos, or watermarks added to image",
+      "No illustration or anime style"
+    ]
+  }
+}
+```
+*Source: 骑司Chase ([@qisi_ai](https://x.com/qisi_ai)) - [Post](https://x.com/qisi_ai/status/1997925279948534056)*
+
+### 2.25. Shop Window Cartoon Reflection
+*Create a photograph of a person next to a shop window showing their cartoon version.*
+
+<img width="400" alt="Shop Window Cartoon" src="https://pbs.twimg.com/media/G7drMCfXkAAN3w0?format=jpg&name=large" />
+
+**Prompt:**
+```json
+{
+  "PROMPT": "Create a bright, high-end street-fashion photograph of the woman from the reference image, keeping her face, hair, body & outfit exactly the same. She stands outside a luxury toy-shop window, gently touching the glass. Inside the window display, place a full-height cartoon-style doll designed to resemble her—same features, hair, and outfit—transformed into a cute, big-eyed, stylized animated character. Crisp lighting, premium street-fashion look, realistic reflections, face unchanged.",
+  "settings": {
+    "style": "high-end street fashion",
+    "lighting": "crisp and bright",
+    "environment": "outside luxury toy-shop window",
+    "subject": "woman from reference image",
+    "focus": ["face", "hair", "body", "outfit"],
+    "additional_elements": [
+      {
+        "type": "doll",
+        "style": "cartoon-style, big-eyed, stylized",
+        "location": "inside window display",
+        "resemblance": "exact features, hair, outfit of woman"
+      }
+    ],
+    "reflections": "realistic",
+    "photorealism": true
+  }
+}
+```
+*Source: Mira ([@xmiiru_](https://x.com/xmiiru_)) - [Post](https://x.com/xmiiru_/status/1997182817235583293)*
+
+### 2.26. Urban 3D LED Display
+*Create a scene with a large L-shaped 3D LED screen in an urban environment.*
+
+<img width="400" alt="Urban 3D LED Display" src="https://pbs.twimg.com/media/G7jPBxmXwAA7igN?format=jpg&name=small" />
+
+**Prompt:**
+```text
+An enormous L-shaped glasses-free 3D LED screen situated prominently at a bustling urban intersection, designed in an iconic architectural style reminiscent of Shinjuku in Tokyo or Taikoo Li in Chengdu. The screen displays a captivating glasses-free 3D animation featuring [scene description]. The characters and objects possess striking depth and appear to break through the screen's boundaries, extending outward or floating vividly in mid-air. Under realistic daylight conditions, these elements cast lifelike shadows onto the screen's surface and surrounding buildings. Rich in intricate detail and vibrant colors, the animation seamlessly integrates with the urban setting and the bright sky overhead.
+
+----
+scene description: 
+[An adorable giant kitten playfully paws at passing pedestrians, its fluffy paws and curious face extending realistically into the space around the screen.]
+```
+*Source: 宝玉 ([@dotey](https://x.com/dotey)) - [Post](https://x.com/dotey/status/1997574511705657772)*
+
+### 2.27. Trans-Dimensional Liquid Pour
+*A surreal scene where liquid from the physical world pours into a digital screen.*
+
+<img width="400" alt="Trans-Dimensional Liquid Pour" src="https://pbs.twimg.com/media/G7Uz7jZXoAAGEV0?format=jpg&name=900x900" />
+
+**Prompt:**
+```json
+{
+  "meta": {
+    "type": "Creative Brief",
+    "genre": "Hyper-realistic Surrealism",
+    "composition_style": "Composite Portrait",
+    "aspect_ratio": "Portrait (implied by 'portrait' description)"
+  },
+  "scene_architecture": {
+    "viewpoint": {
+      "type": "Photographic",
+      "angle": "High-angle / Looking down",
+      "framing": "Tight on central subject"
+    },
+    "dimensional_hierarchy": {
+      "rule": "Scale disparity for surreal effect",
+      "dominant_element": "iPhone 17 Pro Max (Super-scaled)",
+      "subordinate_elements": ["Blue Book (Miniature)", "Pen (Miniature)"]
+    }
+  },
+  "realm_physical": {
+    "description": "The real-world environment surrounding the device.",
+    "environment": {
+      "surface": "Wooden table",
+      "texture_attributes": ["rich grain", "tactile", "worn"]
+    },
+    "lighting_global": {
+      "source": "Natural light",
+      "temperature": "Warm",
+      "shadow_quality": "Soft, diffused, volumetric"
+    },
+    "active_agent": {
+      "identity": "Human Hand (Real)",
+      "action": "Pouring",
+      "position": "Entering frame laterally"
+    },
+    "held_object": {
+      "item": "Bottle",
+      "state": "Chilled (visible condensation)",
+      "branding": {
+        "logo_text": "Decamin",
+        "placement": "Visible on label"
+      },
+      "contents": {
+        "substance": "Water",
+        "color": "Light Green",
+        "state": "Liquid flow"
+      }
+    },
+    "static_props": [
+      {
+        "item": "Book",
+        "color": "Blue",
+        "scale_notes": "Significantly smaller than phone"
+      },
+      {
+        "item": "Pen",
+        "type": "Ballpoint/Ink",
+        "scale_notes": "Significantly smaller than phone"
+      }
+    ]
+  },
+  "realm_digital": {
+    "description": "The content displayed on the screen.",
+    "container_device": {
+      "model": "iPhone 17 Pro Max",
+      "state": "Screen ON",
+      "orientation": "Flat on physical surface"
+    },
+    "screen_content": {
+      "subject_identity": "mqn (Reference ID)",
+      "subject_scale": "Close-up (filling screen)",
+      "expression": "Happy / Smiling",
+      "attire": "Winter clothing (matching reference)",
+      "setting": "Winter landscape / snowy backdrop",
+      "held_object_digital": {
+        "item": "Drinking Glass",
+        "branding": {
+          "logo_text": "Decamin",
+          "visibility": "Clear"
+        },
+        "initial_state": "Empty (waiting for pour)"
+      }
+    }
+  },
+  "surreal_bridge_event": {
+    "description": "The interaction connecting the physical and digital realms.",
+    "action_type": "Trans-dimensional Fluid Dynamics",
+    "source": "realm_physical.held_object.contents (Light Green Water)",
+    "interaction_point": "realm_digital.container_device.screen_surface",
+    "destination": "realm_digital.screen_content.held_object_digital (The Glass)",
+    "physics_violation_rules": {
+      "rule_1": "Liquid does not splash off the glass screen surface.",
+      "rule_2": "Screen surface acts as a permeable membrane solely for this liquid.",
+      "rule_3": "Physical liquid transitions seamlessly into digital representation upon contact."
+    },
+    "visual_details": ["Sharp liquid simulation", "No surface tension on screen glass", "Fluid physically filling digital cup"]
+  },
+  "rendering_specifications": {
+    "visual_fidelity": "Hyper-realistic",
+    "texture_focus": ["Sharp fluid details", "Glass pixels", "Wood grain", "Skin texture (hand and subject)"],
+    "mood": "Cinematic, warm, magical",
+    "resolution_target": "8K / Highly detailed"
+  }
+}
+```
+*Source: Yaseen Khan Gul ([@YaseenK7212](https://x.com/YaseenK7212)) - [Post](https://x.com/YaseenK7212/status/1996559154240967144)*
+
+### 2.28. Fisheye Matcha Girl
+*Ultra wide fisheye photo of a girl sipping a matcha drink.*
+
+<img width="400" alt="Fisheye Matcha Girl" src="https://pbs.twimg.com/media/G6_pAefWYAAilqz?format=jpg&name=large" />
+
+**Prompt:**
+```json
+{
+  "scene": {
+    "environment": "sunny_boardwalk",
+    "details": "wooden_planks, colorful_stalls, people_walking, distant_umbrellas",
+    "lighting": "bright_midday_sun",
+    "sky": "clear_blue"
+  },
+  "camera": {
+    "lens": "ultra_wide_fisheye_12mm",
+    "distance": "very_close_up",
+    "distortion": "strong_exaggeration",
+    "angle": "slightly_low_upward"
+  },
+  "subject": {
+    "type": "young_person",
+    "gender": "neutral",
+    "expression": "curious_playful",
+    "eyes": "large_due_to_lens_distortion",
+    "pose": "leaning_forward_sipping_drink",
+    "clothing": {
+      "top": "bright_green_knit_sweater",
+      "accessory": "chunky_blue_sunglasses"
+    }
+  },
+  "drink": {
+    "type": "iced_matcha_latte",
+    "ice_cubes": "large_clear",
+    "cup": "transparent_plastic",
+    "straw": "green_white_spiral"
+  },
+  "effects": {
+    "depth_of_field": "shallow_foreground_sharp_background_soft",
+    "reflections": "glasses_show_boardwalk_and_people",
+    "color_grade": "clean_natural"
+  },
+  "composition": {
+    "focus": "face_extreme_closeup",
+    "mood": "funny_intimate_casual",
+    "background_elements": [
+      "distant_people",
+      "benches",
+      "bright_shops"
+    ]
+  }
+}
+```
+*Source: Ege ([@egeberkina](https://x.com/egeberkina)) - [Post](https://x.com/egeberkina/status/1995069549805187087)*
+
+### 2.29. Canon IXUS Aesthetic Portrait
+*Create a portrait with Canon IXUS point-and-shoot camera aesthetic.*
+
+<img width="400" alt="Canon IXUS Aesthetic" src="https://pbs.twimg.com/media/G7U1z0CbQAE9zEq?format=jpg&name=medium" />
+
+**Prompt:**
+```json
+{
+  "image_parameters": {
+    "style": "Canon IXUS aesthetic",
+    "type": "Point-and-shoot photography",
+    "quality": "Hyper-realistic",
+    "tone": "Sharp, direct",
+    "lighting_and_atmosphere": "Realistic, flash-style/direct lighting"
+  },
+  "subject": {
+    "constraints": {
+      "facial_identity": "Match reference image exactly 100%",
+      "face_edits": "None allowed"
+    },
+    "hair": {
+      "style": "Long, natural, lightly messy layered look",
+      "movement": "Blowing gently in the wind",
+      "details": "Strands slightly covering part of face"
+    },
+    "makeup": {
+      "cheeks_and_nose": "Soft pink blush with blurred effect",
+      "lips": "Subtle pink-orange tinted outline"
+    },
+    "expression": [
+      "Cute",
+      "Naive",
+      "Cheerful",
+      "Slightly sexy/undone charm"
+    ],
+    "pose": {
+      "body_position": "Half-sitting, half-standing",
+      "action": "Flicking hair"
+    },
+    "clothing": {
+      "top": "Black strapless top",
+      "bottom": "Low-waisted jeans with a floating waistline",
+      "neck": "Thin black fabric choker/wrap"
+    },
+    "accessories": [
+      "Small pendant necklace",
+      "Gold watch"
+    ]
+  },
+  "environment": {
+    "setting": "Modern pub",
+    "foreground_props": [
+      "Round table",
+      "Bottle of liquor",
+      "Glass of liquor"
+    ]
+  }
+}
+```
+*Source: Lex ([@lexx_aura](https://x.com/lexx_aura)) - [Post](https://x.com/lexx_aura/status/1996561195424260299)*
+
+### 2.30. Hyperrealistic Anime Portrait Spotlight
+*Hyperrealistic anime-style portrait with dramatic spotlight lighting.*
+
+<img width="400" alt="Anime Spotlight Portrait" src="https://pbs.twimg.com/media/G7Ah9SIbIAAGlyu?format=jpg&name=900x900" />
+
+**Prompt:**
+```text
+Generate a hyperrealistic realistic-anime portrait of a female character standing in a completely black background.
+Lighting: use a **narrow beam spotlight** focused only on the center of the face. 
+The edges of the light must be sharp and dramatic. 
+All areas outside the spotlight should fall quickly into deep darkness 
+(high falloff shadow), almost blending into the black background. 
+Not soft lighting.
+Hair: long dark hair with some strands falling over the face. The lower parts of the hair should fade into the shadows.
+Pose: one hand raised gently to the lips in a shy, hesitant gesture. 
+Eyes looking directly at the camera with a mysterious mood.
+Clothing: black long-sleeve knit sweater; 
+the sweater and body should mostly disappear into the darkness with minimal detail.
+Overall tone: dark, moody, dramatic, mysterious. 
+High-contrast only in the lit portion of the face. 
+Everything outside the spotlight should be nearly invisible.
+```
+*Source: Anissa ([@SimplyAnnisa](https://x.com/SimplyAnnisa)) - [Post](https://x.com/SimplyAnnisa/status/1995131975351562274)*
 
 ---
 
